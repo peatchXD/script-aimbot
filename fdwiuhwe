@@ -1,7 +1,7 @@
--- Made by 𝐩𝐞𝐚𝐭𝐜𝐡𝐗𝐃#4052
+-- Made by Ziggerlia
 -- Version: 3.2
  
--- Instances:a
+-- Instances:
  
 local ScreenGui = Instance.new("ScreenGui")
 local Aimbot = Instance.new("Frame")
@@ -24,7 +24,7 @@ Title.Parent = Aimbot
 Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Title.Size = UDim2.new(0, 126, 0, 50)
 Title.Font = Enum.Font.SourceSans
-Title.Text = "Aimbot (Made by 𝐩𝐞𝐚𝐭𝐜𝐡𝐗𝐃#4052)"
+Title.Text = "Aimbot (Made by Error_IDK)"
 Title.TextColor3 = Color3.fromRGB(0, 0, 0)
 Title.TextSize = 13.300
  
